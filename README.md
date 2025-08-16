@@ -57,3 +57,5 @@ Explore country-wise production and representation
 The final Power BI dashboard serves as a powerful tool for data-driven storytelling in the entertainment industry. It not only summarizes Prime Video’s catalog but also empowers stakeholders to make strategic decisions on content distribution, production planning, and audience targeting.
 
 # OUTPUT 
+
+https://github.com/user-attachments/assets/92cd84d2-62c7-468b-9bb9-a7f3fcc032b8
